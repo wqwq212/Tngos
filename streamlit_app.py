@@ -78,9 +78,9 @@ st.markdown("""
 content_data = {
     labels[0]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label1_Image1",
-            "https://via.placeholder.com/300?text=Label1_Image2",
-            "https://via.placeholder.com/300?text=Label1_Image3"
+            "https://i.ibb.co/KGwHPYb/toy-poodle-grassy-field-1359-54.jpg",
+            "https://i.ibb.co/khdZ3j9/1.jpg",
+            "https://i.ibb.co/WkWjtqd/62f9a36ea3cea.jpg"
         ],
         'videos': [
             "https://youtu.be/pbBADBjZ-pA?feature=shared",
@@ -95,9 +95,9 @@ content_data = {
     },
     labels[1]: {
         'images': [
-            "https://ibb.co/PxPCK2m",
-            "https://ibb.co/y5NfyB2",
-            "https://ibb.co/z6jWJdF"
+            "https://i.ibb.co/zsR04dN/image.jpg",
+            "https://i.ibb.co/N9kQXW4/1.jpg",
+            "https://i.ibb.co/QQDXyF4/2.jpg"
         ],
         'videos': [
             "https://youtu.be/4Qry1Osot08?feature=shared",
