@@ -105,9 +105,9 @@ content_data = {
             "https://youtu.be/FhA37Sw4j8w?feature=shared"
         ],
         'texts': [
-            "고영",
-            "귀염",
-            "츄르"
+            "고양이는",
+            "귀엽습니다",
+            "나만없어고양이"
         ]
     },
     labels[2]: {
