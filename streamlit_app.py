@@ -95,9 +95,9 @@ content_data = {
     },
     labels[1]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label2_Image1",
-            "https://via.placeholder.com/300?text=Label2_Image2",
-            "https://via.placeholder.com/300?text=Label2_Image3"
+            "https://ibb.co/PxPCK2m",
+            "https://ibb.co/y5NfyB2",
+            "https://ibb.co/z6jWJdF"
         ],
         'videos': [
             "https://youtu.be/4Qry1Osot08?feature=shared",
