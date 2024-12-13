@@ -83,9 +83,9 @@ content_data = {
             "https://via.placeholder.com/300?text=Label1_Image3"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+            "https://youtu.be/pbBADBjZ-pA?feature=shared",
+            "https://youtu.be/g1PCVPYCa0Y?feature=shared",
+            "https://youtu.be/nGt4nb2TdqI?feature=shared"
         ],
         'texts': [
             "강쥐",
@@ -100,9 +100,9 @@ content_data = {
             "https://via.placeholder.com/300?text=Label2_Image3"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
+            "https://youtu.be/4Qry1Osot08?feature=shared",
+            "https://youtu.be/OzkJqjFwcyc?feature=shared",
+            "https://youtu.be/FhA37Sw4j8w?feature=shared"
         ],
         'texts': [
             "고영",
@@ -117,9 +117,9 @@ content_data = {
             "https://via.placeholder.com/300?text=Label3_Image3"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+            "https://youtu.be/z0uh9Z62_r4?feature=shared",
+            "https://youtu.be/MToDABYSEwk?feature=shared",
+            "https://youtu.be/m_ALU4sqVoU?feature=shared"
         ],
         'texts': [
             "톡기",
