@@ -95,7 +95,7 @@ content_data = {
     },
     labels[1]: {
         'images': [
-            "[url=https://ibb.co/PxPCK2m][img]https://i.ibb.co/cJZT0Wg/91452.jpg[/img][/url]",
+            "https://ibb.co/PxPCK2m",
             "https://ibb.co/y5NfyB2",
             "https://ibb.co/z6jWJdF"
         ],
