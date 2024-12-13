@@ -88,9 +88,9 @@ content_data = {
             "https://youtu.be/nGt4nb2TdqI?feature=shared"
         ],
         'texts': [
-            "강쥐",
-            "멍멍",
-            "왈"
+            "강쥐는우리에게매우친숙한동물이죠",
+            "멍멍하고짖기도하고",
+            "왈왈하고짖기도하죠"
         ]
     },
     labels[1]: {
@@ -112,9 +112,9 @@ content_data = {
     },
     labels[2]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label3_Image1",
-            "https://via.placeholder.com/300?text=Label3_Image2",
-            "https://via.placeholder.com/300?text=Label3_Image3"
+            "https://i.ibb.co/z5ZtZws/157681-27857-45.jpg",
+            "https://i.ibb.co/CQTjP11/d4-W-Ib-UYm-I-l-ONb-MMSSWSUFd-R3-Nve5-eoz-U5-NCe-Yp8-VMLStp0-Ipe-CJU7s1r3-Rxpl-Gj-V17-3-USTjj-To-Ca0.webp",
+            "https://i.ibb.co/R7pJY2D/image-readtop-2018-265364-15247057823291378.jpg"
         ],
         'videos': [
             "https://youtu.be/z0uh9Z62_r4?feature=shared",
@@ -122,9 +122,9 @@ content_data = {
             "https://youtu.be/m_ALU4sqVoU?feature=shared"
         ],
         'texts': [
-            "톡기",
-            "당근",
-            "래빗"
+            "토끼사진이군요!",
+            "바쁜일상속",
+            "토끼영상보며힐링하세요"
         ]
     }
 }
